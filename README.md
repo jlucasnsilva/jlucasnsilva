@@ -3,14 +3,13 @@
 🔭 I’m currently working on system for a cloud environment management;
 
 <div>
+  <a href="https://github.com/jlucasnsilva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlucasnsilva&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasnsilva&layout=compact&langs_count=7"/>
+  </a>
+</div>
 
- <a href="https://github.com/pedrocel">
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jlucasnsilva&show_icons=true&include_all_commits=true&count_private=true"/>
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasnsilva&layout=compact&langs_count=7"/>
-
-</div> <br>
+<br>
 
 <!--
 **jlucasnsilva/jlucasnsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
